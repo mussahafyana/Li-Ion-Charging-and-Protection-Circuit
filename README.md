@@ -54,4 +54,4 @@ A Micro-USB connector provides the 5 V input supply for the charging circuit.
 
 The complete lithium-ion charging and protection circuit is shown below.
 
-![Li-Ion Charging and Protection Circuit Schematic](Screenshot%202026-09-21%20203848.png)
+![Li-Ion Charging and Protection Circuit Schematic](bms-schematic.png)
